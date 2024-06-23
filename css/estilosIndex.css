@@ -1,0 +1,63 @@
+body{
+    background-color:rgb(215, 216, 216)
+}
+
+nav{
+    display: flex;
+    flex-wrap: wrap;
+    font-family: monospace;
+    font-size: 100%;
+    color: white;
+    width: 100%;
+    background-color: rgb(179, 182, 182);
+
+}
+
+.divBuscador{
+    display: flex;
+    flex-wrap: wrap;
+    font-family: monospace;
+    font-size: 100%;
+    color: white;
+    width: 100%;
+    background-color: rgb(179, 182, 182);
+}
+
+.navPadding{
+    padding: 2%;
+}
+
+#seleccionarNav:hover{
+    text-align: center;
+    background-color: white;
+    color: black;
+    font-size: 101%;
+    font-family: fantasy;
+}
+
+main{
+    padding-top: 1.5%;
+}
+
+#buscador{
+    color: white;
+    background-color: rgb(179, 182, 182);
+    border-color:rgb(179, 182, 182);
+    height: 35px;
+}
+
+.paddingImg{
+    padding: 20%;
+}
+
+.productosFamosos{
+    display: flex;
+    flex-wrap: wrap;
+    padding-top: 1.5%;
+    font-family: monospace;
+    font-size: 100%;
+    color: white;
+    width: 100%;
+    background-color: rgb(179, 182, 182);
+    height: 200px;
+}
